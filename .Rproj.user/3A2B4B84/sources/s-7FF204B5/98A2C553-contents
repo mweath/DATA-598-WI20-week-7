@@ -1,0 +1,16 @@
+Package: mysimplecompendium
+Type: Package
+Title: Week 7 - mysimplecompendium
+Version: 0.1.0
+Author: Maggie weatherly
+Maintainer: The package maintainer <mweath@uw.edu>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
+Suggests: 
+    testthat (>= 2.1.0)
+URL: https://github.com/mweath/DATA-598-WI20-week-7
+BugReports: https://github.com/mweath/DATA-598-WI20-week-7/issues

@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583797223307.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1547865253",
+    "id" : "932E61FC",
+    "lastKnownWriteTime" : 1583797346,
+    "last_content_update" : 1583797346416,
+    "path" : "~/Documents/DATA_598a/week7/mysimplecompendium/Dockerfile",
+    "project_path" : "Dockerfile",
+    "properties" : {
+        "cursorPosition" : "19,19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
