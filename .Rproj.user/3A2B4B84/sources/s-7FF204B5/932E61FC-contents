@@ -16,5 +16,4 @@ RUN . /etc/environment \
   && R -e "devtools::install('/DATA-598-WI20-week-7', dep=TRUE)" \
   # render the manuscript into a docx, you'll need to edit this if you've
   # customised the location and name of your main Rmd file
-  # && R -e "rmarkdown::render('/DATA-598-WI20-week-7/')"
-  devtools::check()
+  && R -e "rmarkdown::devtools::check()"
