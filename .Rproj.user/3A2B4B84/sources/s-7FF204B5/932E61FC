@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3159004800",
     "id" : "932E61FC",
-    "lastKnownWriteTime" : 1583798266,
-    "last_content_update" : 1583798266058,
+    "lastKnownWriteTime" : 1583798703,
+    "last_content_update" : 1583798703025,
     "path" : "~/Documents/DATA_598a/week7/mysimplecompendium/Dockerfile",
     "project_path" : "Dockerfile",
     "properties" : {
-        "cursorPosition" : "18,11",
+        "cursorPosition" : "18,49",
         "scrollLine" : "0"
     },
     "read_only" : false,
